@@ -1,0 +1,17 @@
+.widget-wrapper {
+  top: auto !important;
+  right: 60px !important;
+  bottom: 50px !important;
+  left: auto !important;
+  position: fixed !important;
+  border: 0 !important;
+  z-index: 2000000000 !important;
+  background-color: transparent !important;
+  cursor: auto !important;
+  padding: 0 !important;
+  margin: 0 !important;
+  min-height: 0 !important;
+  min-width: 0 !important;
+  max-height: none !important;
+  max-width: max-content !important;
+}
